@@ -1,1 +1,1 @@
-get http://localhost:3001/api/v1/payments
+get https://go-payment-service-220652406095.us-central1.run.app/api/v1/payments
